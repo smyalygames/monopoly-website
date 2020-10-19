@@ -1,0 +1,8 @@
+CREATE TABLE password (
+	pwd_id int(11) AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    user_id int(11) NOT NULL,
+    pwd_selector TEXT NOT NULL,
+    pwd_token LONGTEXT NOT NULL,
+    pwd_expires TEXT NOT NULL,
+    FOREIGN KEY (user_id) REFERENCES users(user_id) 
+);

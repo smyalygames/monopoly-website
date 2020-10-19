@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1626f71f-da31-4dec-b83d-436922254ac6" name="Default Changelist" comment="" />
+    <list default="true" id="1626f71f-da31-4dec-b83d-436922254ac6" name="Default Changelist" comment="Initialised with VSCode and PHPStorm">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +40,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,11 +59,76 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603130623010</updated>
-      <workItem from="1603130624063" duration="16000" />
+      <workItem from="1603130624063" duration="785000" />
     </task>
+    <task id="LOCAL-00001" summary="Initialised with VSCode and PHPStorm">
+      <created>1603130675982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603130675982</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialised with VSCode and PHPStorm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialised with VSCode and PHPStorm" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="183" key="#Deployment" timestamp="1603131414390">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#Deployment/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603131414390" />
+    <state x="637" y="206" key="#Options" timestamp="1603131361974">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="637" y="206" key="#Options/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603131361974" />
+    <state x="400" y="381" key="#SQL_Resolution_Scopes" timestamp="1603131092897">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="400" y="381" key="#SQL_Resolution_Scopes/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603131092897" />
+    <state x="536" y="170" key="#SSH_Configurations" timestamp="1603131283776">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="536" y="170" key="#SSH_Configurations/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603131283776" />
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603131377729">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603131377729" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1603130773706">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603130773706" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1603130680441">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603130680441" />
+    <state x="859" y="402" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1603130916520">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="859" y="402" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603130916520" />
+    <state x="742" y="114" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1603131108796">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="742" y="114" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603131108796" />
+    <state x="787" y="255" key="ftp.server.browser" timestamp="1603131398936">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="787" y="255" key="ftp.server.browser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603131398936" />
   </component>
 </project>
